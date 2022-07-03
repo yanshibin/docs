@@ -11,9 +11,9 @@ const FEEDBACK_LINK_WITH_TRANSLATIONS = {
 };
 
 export default {
-  projectLink: "https://github.com/Xhofe/nextra-docs-template",
+  projectLink: "https://github.com/alist-org/docs",
   docsRepositoryBase:
-    "https://github.com/Xhofe/nextra-docs-template/blob/master/pages",
+    "https://github.com/alist-org/docs/blob/master/pages",
   titleSuffix: " – nextra-docs-template",
   search: true,
   unstable_flexsearch: true,
@@ -72,7 +72,7 @@ export default {
       case "zh-CN":
         return (
           <a
-            href="https://github.com/Xhofe/nextra-docs-template"
+            href="https://github.com/alist-org/docs"
             target="_blank"
             rel="noopener"
             className="inline-flex items-center no-underline text-current font-semibold"
@@ -85,7 +85,7 @@ export default {
       default:
         return (
           <a
-            href="https://github.com/Xhofe/nextra-docs-template"
+            href="https://github.com/alist-org/docs"
             target="_blank"
             rel="noopener"
             className="inline-flex items-center no-underline text-current font-semibold"
