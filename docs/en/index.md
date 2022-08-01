@@ -19,7 +19,7 @@ features:
   - title: Easy to Use
     details: Alist was designed from the ground up to be easily installed and it can be used on all platforms.
   - title: Support multiple storage
-    details: Alist supports multiple storage providers, including local storage, Aliyundrive, Onedrive, Google Drive, etc., and is easily scalable.
+    details: Alist supports multiple storage providers, including local storage, Aliyundrive, Onedrive, Google Drive, etc., and is easily expand.
   - title: Support WebDav
     details: Alist supports all storage WebDav, which is a standard for accessing files on.
 ---

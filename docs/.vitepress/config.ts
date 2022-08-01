@@ -5,6 +5,7 @@ export default defineConfig({
   title: "🗂️AList",
   description:
     "🗂️ A file list program that supports multiple storage, powered by Gin and Solidjs.",
+  head: [["link", { rel: "icon", href: "/logo.svg" }]],
   locales: {
     "/en/": {
       lang: "en-US",
@@ -42,6 +43,10 @@ export default defineConfig({
         icon: "twitter",
         link: "https://twitter.com/Xh0fe",
       },
+      {
+        icon: "discord",
+        link: "https://t.me/alist_chat",
+      }
     ],
     footer: {
       message: "Released under the SATA | MIT License.",
