@@ -12,7 +12,7 @@ export default hopeTheme({
   },
 
   author: {
-    name: "Noah Hsu",
+    name: "Andy Hsu",
     url: "https://i.nn.ci",
   },
 
@@ -34,7 +34,10 @@ export default hopeTheme({
       // sidebar
       sidebar: sidebar.en,
 
-      footer: `<a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a>`,
+      footer: `
+      <div class="wwads-cn wwads-horizontal wwads-sticky" data-id="213" style="max-width:264px" data-sticky-width="1440"></div>
+      <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a>
+      `,
 
       displayFooter: true,
     },
@@ -49,7 +52,9 @@ export default hopeTheme({
       // sidebar
       sidebar: sidebar.zh,
 
-      footer: `<a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a>`,
+      footer: `
+      <div class="wwads-cn wwads-horizontal wwads-sticky" data-id="213" style="max-width:264px" data-sticky-width="1440"></div>
+      <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a>`,
 
       displayFooter: true,
     },

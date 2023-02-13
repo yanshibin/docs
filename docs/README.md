@@ -47,6 +47,6 @@ features:
     details: Including text editor, readme/html render, file permalink, cloudflare workers proxy, etc.
 
 copyright: false
-footer: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a> <div>AGPL-3.0 Licensed | Copyright © 2022-present AList</div>
+footer: <div class="wwads-cn wwads-horizontal" data-id="213" style="max-width:350px"></div> <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-color-bg.svg" alt="Deploys by Netlify" /> </a> <div>AGPL-3.0 Licensed | Copyright © 2022-present AList</div>
 ---
 
